@@ -1,0 +1,7 @@
+HGB_Category.xcodeproj/xcuserdata/
+HGB_Category.xcworkspace/
+Pods/
+*.swp
+Podfile.lock
+.DS_Store
+HGB_Category.xcodeproj/project.xcworkspace/xcuserdata/
